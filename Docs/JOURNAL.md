@@ -7,7 +7,7 @@
 
 - Reasearched about TVC model rockets and how they stabilizes
 
-- Found a usable TVC gimbal 3d file online, gonna use that
+- Found a usable TVC gimbal 3d file online, gonna use that (Maybe)
 
 - Decided to build my own MCU for this project using IMU, Baro and other components
 
@@ -17,4 +17,4 @@
 
 - Designed first version of SL-45T but thinking of changing the diameter from 45mm to 60mm
 
-- Compared to this <img src="../Rocket/Design/Fins/Old%20Fins.png" alt="Old Fins" width="100" height="100">, newer version fins perform better with accurate motor mass <img src="../Rocket/Design/Fins/New%20Fins%20v1.png" alt="New Fins v1" width="100" height="100">
+- Compared to this <img src="../Rocket/Design/Fins/Old%20Fins.png" alt="Old Fins" width="250">, newer version fins perform better with accurate motor mass <img src="../Rocket/Design/Fins/New%20Fins%20v1.png" alt="New Fins v1" width="250">
