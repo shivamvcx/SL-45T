@@ -7,6 +7,6 @@
 
 - Reasearched about TVC model rockets and how they stabilizes
 
-- Found a usable TVC gimbal 3d file online, gonna use that
+- Found a usable TVC gimbal 3d file online, gonna use that (maybe)
 
 - Decided to build my own MCU for this project using IMU, Baro and other components
