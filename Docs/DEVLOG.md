@@ -4,3 +4,7 @@
 
 ## `18/09/26` -
 - Start of this project
+
+- Working on Diff fins and parachute configurations, yet to finalize one
+
+- Installed a python script for generating nose cones mathematically
