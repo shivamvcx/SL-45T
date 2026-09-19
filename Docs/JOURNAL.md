@@ -17,4 +17,4 @@
 
 - Designed first version of SL-45T but thinking of changing the diameter from 45mm to 60mm
 
-- Compared to this <img src="../Rocket/Design/Fins/Old%20Fins.png" alt="Old Fins" width="250">, newer version fins perform better with accurate motor mass <img src="../Rocket/Design/Fins/New%20Fins%20v1.png" alt="New Fins v1" width="250">
+- Compared to this <img src="../Rocket/Design/Fins/Old%20Fins.png" alt="Old Fins" width="500">, newer version fins perform better with accurate motor mass <img src="../Rocket/Design/Fins/New%20Fins%20v1.png" alt="New Fins v1" width="500">
